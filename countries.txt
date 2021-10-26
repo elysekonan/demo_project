@@ -1,63 +1,53 @@
 Afghanistan
-Island Islands
 Albania
 Algeria
-American Samoa
 Andorra
 Angola
-Anguilla
-Antarctica
 Antigua and Barbuda
 Argentina
 Armenia
-Aruba
 Australia
 Austria
 Azerbaijan
-Bahamas
+Bahamas, The
 Bahrain
 Bangladesh
 Barbados
+Bavaria*
 Belarus
 Belgium
 Belize
-Benin
-Bermuda
-Bhutan
+Benin (Dahomey)
 Bolivia
 Bosnia and Herzegovina
 Botswana
-Bouvet Island
 Brazil
-British Indian Ocean Territory
-British Virgin Islands
-Brunei Darussalam
+Brunei
+Brunswick and Lüneburg
 Bulgaria
-Burkina Faso
+Burkina Faso (Upper Volta)
+Burma
 Burundi
+Cabo Verde
 Cambodia
 Cameroon
 Canada
-Cape Verde
-Cayman Islands
+Cayman Islands, The
 Central African Republic
 Chad
 Chile
-People`s Republic of China
-Chinese Taipei
-Christmas Island
-Cocos (Keeling) Islands
+China
 Colombia
 Comoros
-Congo
-Congo (Democratic Republic of the)
-Cook Islands
+Congo Free State, The
 Costa Rica
-Cote d`Ivoire (Ivory Coast)
+Cote d'Ivoire (Ivory Coast)
 Croatia
 Cuba
 Cyprus
-Czech Republic
+Czechia
+Czechoslovakia
+Democratic Republic of the Congo
 Denmark
 Djibouti
 Dominica
@@ -68,67 +58,53 @@ El Salvador
 Equatorial Guinea
 Eritrea
 Estonia
+Eswatini
 Ethiopia
-Falkland Islands (Malvinas)
-Faroe Islands
-Federated States of Micronesia
 Fiji
 Finland
 France
-French Guiana
-French Polynesia
-French Southern Territories
 Gabon
-Gambia
+Gambia, The
 Georgia
 Germany
 Ghana
-Gibraltar
 Greece
-Greenland
 Grenada
-Guadeloupe
-GuamGuam
 Guatemala
-Guernsey
 Guinea
 Guinea-Bissau
 Guyana
 Haiti
-Heard Island and McDonald Islands
+Holy See
 Honduras
-Hong Kong, China
 Hungary
 Iceland
 India
 Indonesia
+Iran
 Iraq
 Ireland
-Islamic Republic of Iran
-Isle of Man
 Israel
 Italy
 Jamaica
 Japan
-Jersey
 Jordan
 Kazakhstan
 Kenya
 Kiribati
-Korea (Dem. People`s Republic of )
+Korea
 Kosovo
 Kuwait
 Kyrgyzstan
-Lao People`s Democratic Republic
+Laos
 Latvia
 Lebanon
 Lesotho
 Liberia
-Libyan Arab Jamahiriya
+Libya
 Liechtenstein
 Lithuania
 Luxembourg
-Macau
 Madagascar
 Malawi
 Malaysia
@@ -136,59 +112,44 @@ Maldives
 Mali
 Malta
 Marshall Islands
-Martinique
 Mauritania
 Mauritius
-Mayotte
 Mexico
-Moldova (Republic of)
+Micronesia
+Moldova
 Monaco
 Mongolia
 Montenegro
-Montserrat
 Morocco
 Mozambique
-Myanmar
 Namibia
 Nauru
 Nepal
-Netherlands
-Netherlands Antilles
-New Caledonia
+Netherlands, The
 New Zealand
 Nicaragua
 Niger
 Nigeria
-Niue
-Norfolk Island
-Northern Mariana Islands
+North Macedonia
 Norway
 Oman
 Pakistan
 Palau
-Palestine
 Panama
 Papua New Guinea
 Paraguay
 Peru
 Philippines
-Pitcairn
 Poland
 Portugal
-Puerto Rico
 Qatar
-Republic of Korea
-Macedonia (Republic of )
-Reunion
+Republic of Korea (South Korea)
+Republic of the Congo
 Romania
-Russian Federation
+Russia
 Rwanda
-Saint Barthelemy
-Saint Helena
 Saint Kitts and Nevis
 Saint Lucia
-Saint Martin
-Saint Pierre and Miquelon
 Saint Vincent and the Grenadines
 Samoa
 San Marino
@@ -201,47 +162,37 @@ Sierra Leone
 Singapore
 Slovakia
 Slovenia
-Solomon Islands
+Solomon Islands, The
 Somalia
 South Africa
-Sth Georgia and the Sth Sandwich Islands
+South Sudan
 Spain
 Sri Lanka
 Sudan
 Suriname
-Svalbard and Jan Mayen
-Swaziland
 Sweden
 Switzerland
 Syria
 Tajikistan
-Tanzania(United Republic of )
+Tanzania
 Thailand
 Timor-Leste
 Togo
-Tokelau
 Tonga
 Trinidad and Tobago
 Tunisia
 Turkey
 Turkmenistan
-Turks and Caicos Islands
 Tuvalu
 Uganda
 Ukraine
-United Arab Emirates
-United Kingdom
-United States Min. Outlying Islands
-United States of America
+United Arab Emirates, The
+United Kingdom, The
 Uruguay
 Uzbekistan
 Vanuatu
-Vatican City
 Venezuela
 Vietnam
-Virgin Islands
-Wallis and Futuna
-Western Sahara
 Yemen
 Zambia
 Zimbabwe
